@@ -1,4 +1,4 @@
-# Manete_de_potencia
+# Manete de potencia
 
 # **Lista de materiais eletronicos**
 - 1 pcb raspberry pi pico
