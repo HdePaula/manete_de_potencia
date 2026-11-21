@@ -1,0 +1,1 @@
+# manete_de_potencia
